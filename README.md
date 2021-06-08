@@ -1,4 +1,7 @@
 # jstory - backend
+---
+#### consistently development
+___
 
 kakao login 으로 부터 access_token 받는 로직 구현
 
