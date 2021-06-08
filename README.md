@@ -14,9 +14,10 @@ kakao login 으로 부터 access_token 받는 로직 구현
 백엔드 서버 작업 목록
 
 1. 구현 코드 작성
-2. 각 구현부 도커 작업
+  - Naver Login, Kakao Login, Google Login, Apple Login
+3. 각 구현부 도커 작업
   - fastapi, uvicorn, nginx, database
-3. 도메인 작업 후 서버 배포
+4. 도메인 작업 후 서버 배포
 
 fastapi 실행
 
